@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CoogleMapTutor</string>
+    <string name="permission_request">Permission Request</string>
+    <string name="app_logo">App Logo</string>
+    <string name="permission_rwquest_explanation">This Application needs permission to access device location to provide required services, Please Allow the permission</string>
+    <string name="grant_permission_text">Grant Permission</string>
+    <string name="permission_rejected">The requested permission is denied</string>
 </resources>
