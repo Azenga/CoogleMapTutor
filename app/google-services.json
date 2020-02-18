@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180789419526",
+    "firebase_url": "https://cooglemaptutor.firebaseio.com",
+    "project_id": "cooglemaptutor",
+    "storage_bucket": "cooglemaptutor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180789419526:android:136ad0ed87b9f2a662ed87",
+        "android_client_info": {
+          "package_name": "com.shadow.mapactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180789419526-2j6o24i35ggl1k4dposk1r6p38mne1tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shadow.mapactivity",
+            "certificate_hash": "8813360e3b9fc520c0d3c5a588fcc2a79c1ca5fd"
+          }
+        },
+        {
+          "client_id": "180789419526-8ejg3v98pbg6d61ooj2k6rpv5dmo82s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxX0JoSvCRwYadPDTZ-FW1Jqv41H4abAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180789419526-8ejg3v98pbg6d61ooj2k6rpv5dmo82s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
