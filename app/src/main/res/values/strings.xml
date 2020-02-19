@@ -5,4 +5,6 @@
     <string name="permission_rwquest_explanation">This Application needs permission to access device location to provide required services, Please Allow the permission</string>
     <string name="grant_permission_text">Grant Permission</string>
     <string name="permission_rejected">The requested permission is denied</string>
+    <string name="material_search_hint">Search A Place</string>
+    <string name="add_marker_text">Add Marker</string>
 </resources>
